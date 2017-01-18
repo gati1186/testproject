@@ -1,0 +1,10 @@
+/* Scss Document */
+
+@mixin position($position) {
+  position: $position;
+}
+
+@mixin line-height($lineheight)
+{
+	line-height: $lineheight;
+}
